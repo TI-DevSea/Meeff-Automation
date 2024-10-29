@@ -40,3 +40,7 @@ Script para automatizar o envio de solicitações de amizade para o app MEEFF, c
 
 - [@jvictorbap](https://www.github.com/jvictorbap)
 
+
+## Demonstração
+
+![Console Demonstration](https://i.imgur.com/idpUojK.png "Console Demonstration")
