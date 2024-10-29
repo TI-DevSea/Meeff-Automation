@@ -1,7 +1,7 @@
 
 # Meeff Friend Request Automation
 
-Script para automatizar o envio de solitações de amizade para o app MEEFF, com esse script você nao ira ter que assistir anuncios a cada 6 pedidos de amizade enviados via APP, pois enviamos o pedido via API.
+Script para automatizar o envio de solicitações de amizade para o app MEEFF, com esse script você não irá ter que assistir anúncios a cada 6 pedidos de amizade enviados via APP, pois enviamos o pedido via API.
 
 
 ## Funcionalidades
